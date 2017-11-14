@@ -1,0 +1,109 @@
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe.config
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.pdb
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.xml
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Form1.resources
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Resources.resources
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.xml
+c:\users\clovis jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.pdb
+C:\Users\Clovis Jr\documents\visual studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.login.resources
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe.config
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.xml
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.pdb
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.mdb
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.pdb
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.xml
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Form1.resources
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.login.resources
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Resources.resources
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clovis Jr\Desktop\TeleComuniQ\TeleComuniQ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\bin\Debug\TeleComuniQ.exe.config
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\TeleComuniQ.xml
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\TeleComuniQ.pdb
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\bin\Debug\TeleComuniQ.exe
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\bin\Debug\TeleComuniQ.pdb
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\bin\Debug\TeleComuniQ.xml
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Form1.resources
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\TeleComuniQ.login.resources
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Resources.resources
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clovis Jr\Desktop\TeleComuniQ - Cópia\TeleComuniQ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clovis Jr\Documents\Visual Studio 2010\Projects\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.mdb
+C:\Users\Clovis Jr\Documents\Visual Studio 2010\Projects\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.cadastro.resources
+F:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe.config
+F:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe
+F:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.xml
+F:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.pdb
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe.config
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.xml
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.pdb
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.mdb
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.pdb
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.xml
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.cadastro.resources
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Form1.resources
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.login.resources
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Resources.resources
+G:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.vbproj.GenerateResource.Cache
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe.config
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.xml
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.pdb
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.mdb
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.pdb
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.xml
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.cadastro.resources
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Form1.resources
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.login.resources
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Resources.resources
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.vbproj.GenerateResource.Cache
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe.config
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.xml
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.pdb
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.mdb
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.pdb
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.xml
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.cadastro.resources
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Form1.resources
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.login.resources
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Resources.resources
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.nota.resources
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.nota.resources
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe.config
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.xml
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.pdb
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.mdb
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.pdb
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.xml
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.cadastro.resources
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Form1.resources
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.login.resources
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.Resources.resources
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.nota.resources
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.exe.manifest
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\bin\Debug\TeleComuniQ.application
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.exe.manifest
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.application
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\Interop.DAO.dll
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.vbproj.ResolveComReference.cache
+B:\PROJETOS\SISTEMAS\VB.NET\TeleComuniQ\TeleComuniQ\obj\x86\Debug\TeleComuniQ.vbproj.GenerateResource.Cache

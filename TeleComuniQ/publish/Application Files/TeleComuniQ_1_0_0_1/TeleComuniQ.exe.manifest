@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.1" name="TeleComuniQ.exe" publicKeyToken="8e1dca13b2f3c326" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="HelpDesk.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TeleComuniQ" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="TeleComuniQ.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TeleComuniQ.exe" size="1070080">
+      <assemblyIdentity name="TeleComuniQ" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>MtEvt5bHC7lb7MEoyDzX729ADhA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="bandeiras\Hipercard-log.png" size="4492">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6FDY1ApDX+YdNtSsiya3WxO9IJM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bandeiras\image_claro-peq.png" size="8742">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+qWUjnvFCw20ZJZt0urgK6yK15E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bandeiras\-itau.png" size="5148">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1vYgzNXiZsO5CGxm10A6fP4f4ps=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="bandeiras\logo_americanas-peq.png" size="5281">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OEl330BFtEHo7VjFu+vXdOpy5tw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="chamadas\Audio_Americanas.wav" size="34132048">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rgsNHPxlaoTO6G8lh9fiYnuNSRs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="chamadas\Audio_Claro.wav" size="32739408">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NB/Gz6OUCqV2O8Xz/xTxcRhKn9s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="chamadas\Audio_Hypercard.wav" size="31432784">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>u3IF5RgyuN7j7WY55Pgsdb8EVHM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="chamadas\Audio_Itau.wav" size="32485456">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ap02DUCoCNwL9nanvftvPtYPhUE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="HelpDesk.ico" size="15086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>H7ktGXGzue0zoY95/wlf8WHi//E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TeleComuniQ.exe.config" size="564">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yBtm3r77YQo8woQ3ypteTu7JFPQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TeleComuniQ.mdb" size="761856">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sIepK+y4NYzesbP9NOuyPD1S5ps=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TeleComuniQ.pdb" size="294400">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FlGK0HzEv9RDkxzCFuMQHF23YWY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TeleComuniQ.xml" size="7704">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cZPHwjiHsyveoTZazwMLzSeJ8/I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=ClovisJr-PC\Clovis Jr" issuerKeyHash="96d7f0fd13a1052baec26922cfb39d104ad708ed" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>VBX1/cg7PrV+q62QjCT+JueFAHA=</DigestValue></Reference></SignedInfo><SignatureValue>eW0DAb8FG2gLpRXOR3F/QBdF6LPLd1q9l+9wF2MGyFTMrI1a+GLx37EBxuRLycJnpfYzlViz3XvgNFCrOIIKziI3h9cfl8IhwS9UGt2Vb6ATYogSzXuEJF5tuLQTlPe/scTHURRJxGyRJu5I9g2CuuMO/hvb2u+VW6bGqYlZa3Y=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oO90DaQAuaWmLKnor3Zb8vp63tknmytdHWNDBc6Jghd0t4u4VyERgnpXHlpytJQj4YLoTCKdzL1swA3IG2s1lELk2DC+mSA3C/MM/dU65lPf/CLzVyIB6X25vjOplxx4ep3QkVZcfLVE+tQ6ECk63UhauDBtJUqZoqtFrkys8fM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="700085e726fe248c90adab7eb53e3bc8fdf51554" Description="" Url=""><as:assemblyIdentity version="1.0.0.1" name="TeleComuniQ.exe" publicKeyToken="8e1dca13b2f3c326" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ClovisJr-PC\Clovis Jr</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>yu8R1ENWmC2CeMezAoi+NRSvHtk=</DigestValue></Reference></SignedInfo><SignatureValue>H3SNzRbACxfA3kQ9HTabl5v5FZNQ+IL9ID2lO8lXjy49ytdYmXd7UD+YNTEBiZ0mB7J86b3OJVIGdy6ZvXYgHCGnuE9zp7IQprGfdbDbjDwiS4AO2PmAjoY6CHKajS0wstmEdKrTSKsfVgIzxcgcyyRZ1m6QPocUhyZxjH7eneU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oO90DaQAuaWmLKnor3Zb8vp63tknmytdHWNDBc6Jghd0t4u4VyERgnpXHlpytJQj4YLoTCKdzL1swA3IG2s1lELk2DC+mSA3C/MM/dU65lPf/CLzVyIB6X25vjOplxx4ep3QkVZcfLVE+tQ6ECk63UhauDBtJUqZoqtFrkys8fM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQfIcvAx3o1oZBkMwxA4sQEDANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioAQwBsAG8AdgBpAHMASgByAC0AUABDAFwAQwBsAG8AdgBpAHMAIABKAHIwHhcNMTcwMTA4MjMxMjUxWhcNMTgwMTA5MDUxMjUxWjA1MTMwMQYDVQQDHioAQwBsAG8AdgBpAHMASgByAC0AUABDAFwAQwBsAG8AdgBpAHMAIABKAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKDvdA2kALmlpiyp6K92W/L6et7ZJ5srXR1jQwXOiYIXdLeLuFchEYJ6Vx5acrSUI+GC6Ewincy9bMANyBtrNZRC5NgwvpkgNwvzDP3VOuZT3/wi81ciAel9ub4zqZcceHqd0JFWXHy1RPrUOhApOt1IWrgwbSVKmaKrRa5MrPHzAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAZtLZ8PfqVUuFGxQSVeOEkAHa9kSC2z92rDwtnKeAwEG7VvIzw/0w92fVUA0aqHrW06dSZ7GK3pE2Hsyt0/5zrIkEEsR9n+ZFhWxEeGz89XR72c+iQlSnMiCNn/qSR+1i74ls9wNstLm03dNlh+bfFiCTrNMksriUYSQOOz22c0M=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
